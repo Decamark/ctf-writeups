@@ -2,3 +2,6 @@
 *.gpr
 *.rep
 .gdb_history
+peda-session-*
+*.hop*
+\#*\#
