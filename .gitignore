@@ -1,6 +1,7 @@
 *~
 *.gpr
 *.rep
+*.lock
 .gdb_history
 peda-session-*
 *.hop*
